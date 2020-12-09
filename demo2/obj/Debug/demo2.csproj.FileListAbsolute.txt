@@ -1,0 +1,9 @@
+D:\application\Visual\demo2\demo2\bin\Debug\demo2.exe.config
+D:\application\Visual\demo2\demo2\bin\Debug\demo2.exe
+D:\application\Visual\demo2\demo2\bin\Debug\demo2.pdb
+D:\application\Visual\demo2\demo2\obj\Debug\demo2.Form1.resources
+D:\application\Visual\demo2\demo2\obj\Debug\demo2.Properties.Resources.resources
+D:\application\Visual\demo2\demo2\obj\Debug\demo2.csproj.GenerateResource.cache
+D:\application\Visual\demo2\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+D:\application\Visual\demo2\demo2\obj\Debug\demo2.exe
+D:\application\Visual\demo2\demo2\obj\Debug\demo2.pdb
